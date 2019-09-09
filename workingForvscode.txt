@@ -1,0 +1,2 @@
+
+"{\"SyndiId\":\"SyndiLoan4567\",\"Total\":\"123456789\",\"Name\":\"Syndicated\",\"slp_Citi\":\"30\",\"slp_WellsFargo\":\"30\",\"slp_BOA\":\"40\"}"
